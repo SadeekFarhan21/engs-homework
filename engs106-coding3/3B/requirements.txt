@@ -1,0 +1,6 @@
+torch>=2.0
+tqdm
+numpy
+ipykernel
+ipywidgets
+jupyter
